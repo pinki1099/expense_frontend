@@ -177,7 +177,7 @@ const App = () => {
         :
         <>
       <div className="container">
-        <h2>Expense</h2>
+        <h2>Expense Track</h2>
         <div className="form">
           <input
             type="number"
